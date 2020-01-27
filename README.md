@@ -3,6 +3,8 @@
 ## General
 Allows the user to opt out from Google Analytics.
 
+**This project will no longer be maintained.**
+
 ## Installation
 Please install this extension via Pagekit's marketplace
 
